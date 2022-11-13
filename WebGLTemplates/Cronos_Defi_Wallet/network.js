@@ -20,8 +20,6 @@ Used to set the network: https://chainlist.org/
 1666600000 Harmony Mainnet Shard0
 25 Cronos Mainnet Beta
 338 Cronos Testnet
-40 Telos Mainnet
-41 Telos Testnet
 */
 
 window.web3ChainId = 1;
